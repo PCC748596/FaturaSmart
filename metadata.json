@@ -1,0 +1,6 @@
+{
+  "name": "FaturaSmart - Gestão Inteligente de Cartões e Faturas",
+  "description": "Controle de contas e faturas de cartão de crédito com leitor de PDF inteligente via backend, alertas de vencimento e gráficos de despesas.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
